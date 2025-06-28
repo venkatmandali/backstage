@@ -1,7 +1,7 @@
 tapiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: Venkatbackstage
   annotations:
     github.com/project-slug: venkatmandali/backstage
 spec:
