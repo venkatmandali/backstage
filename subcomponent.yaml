@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: another-yaml-file
+  description: Internal library A used by main-service
+spec:
+  type: library
+  lifecycle: production
+  owner: team-a
+  subcomponentOf: backstage
